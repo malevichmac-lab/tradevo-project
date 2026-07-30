@@ -46,4 +46,4 @@
 
 ---
 
-📬 **Поддержка:** [tradevologic.info@gmail.com](mailto:tradevologic.info@://gmail.com)
+📬 **Поддержка:** [tradevologic.info@gmail.com](mailto:tradevologic.info@gmail.com)
