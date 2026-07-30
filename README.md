@@ -16,9 +16,9 @@
 Для ознакомления со спецификациями наших подразделений и отправки заявок 
 на бета-тестирование закрытого софта используйте наши официальные веб-хабы:
 
-* 🟢 [tradevologic-web](https://github.io/malevichmac-lab/tradevologic-web) — Главная страница и b2b-визитка нашего R&D инкубатора.
-* 🔵 [Pipverse-project](https://github.io/malevichmac-lab/Pipverse-project) — Исследования в области высокочастотного скальпинга (MT4/MT5).
-* 🟣 [nexovate-project](https://github.io/malevichmac-lab/nexovate-project) — Полевые тесты парсеров, API-шлюзов и систем Data Mining.
+* 🟢 [tradevologic-web](https://malevichmac-lab.github.io/tradevologic-web/) — Главная страница и b2b-визитка нашего R&D инкубатора.
+* 🔵 [Pipverse-project](https://malevichmac-lab.github.io/Pipverse-project/) — Исследования в области высокочастотного скальпинга (MT4/MT5).
+* 🟣 [nexovate-project](https://malevichmac-lab.github.io/nexovate-project/) — Полевые тесты парсеров, API-шлюзов и систем Data Mining.
 
 ---
 
