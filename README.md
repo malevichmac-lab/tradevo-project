@@ -46,4 +46,5 @@
 
 ---
 
-📬 **Поддержка:** [tradevologic.info@gmail.com](mailto:tradevologic.info@gmail.com)
+📬 **Поддержка:** <a href="mailto:tradevologic.info@gmail.com?subject=Beta-Test%20Request">tradevologic.info@gmail.com</a>
+
